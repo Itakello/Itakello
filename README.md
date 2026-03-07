@@ -7,7 +7,7 @@ Current focus: agents, MCP tooling, automation, and product-grade workflows.
 
 ---
 
-🌐 Website: [mstefan.dev](www.mstefan.dev)
+🌐 Website: [mstefan.dev](https://www.mstefan.dev)
 
 💻 Work: Amazon Iași, Romania (RO)
 
