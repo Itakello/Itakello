@@ -1,14 +1,11 @@
 # 🦃 Itakello
 
-I build AI-native tools and operational systems.
-I optimize for simple architecture, long-term consistency, and low maintenance.
+Software engineer building AI systems for real work.
 
-Current focus: agents, MCP tooling, automation, and product-grade workflows.
+I’m interested in the layer between a capable model and a useful outcome: tools, state, permissions, evaluation, and the feedback loops that make the system dependable.
 
 ---
 
-🌐 Website: [mstefan.dev](https://www.mstefan.dev)
+🌐 Website: [mstefan.dev](https://mstefan.dev)
 
-💻 Work: Amazon Iași, Romania (RO)
-
-✉️ Contact: itakello@amazon.com | massimo@mstefan.dev
+✉️ Contact: [me@mstefan.dev](mailto:me@mstefan.dev)
