@@ -8,4 +8,4 @@ I’m interested in the layer between a capable model and a useful outcome: tool
 
 🌐 Website: [mstefan.dev](https://mstefan.dev)
 
-✉️ Contact: [massimo@mstefan.dev](mailto:massimo@mstefan.dev)
+✉️ Contact: [me@mstefan.dev](mailto:me@mstefan.dev)
